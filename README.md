@@ -1,5 +1,8 @@
+
+
 <h1 align="center">Hi 👋, I'm Elua BUGINGO</h1>
 <h3 align="center">A backend and a frontend developer in web and mobile</h3>
+<a href="https://app.daily.dev/Bugingo"><img src="https://api.daily.dev/devcards/e2568a7117ce4e79a82350f7713e3464.png?r=prh" width="400" alt="BUGINGO Elua's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elua-b&label=Profile%20views&color=0e75b6&style=flat" alt="elua-b" /> </p>
 
